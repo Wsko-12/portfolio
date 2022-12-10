@@ -78,3 +78,21 @@ Deploy: https://rolling-scopes-school.github.io/wsko-12-JSFE2022Q1/online-store/
 No libraries are used. Especially for sliders and sorting animation 
 </details>
 
+<hr />
+
+### Final task. RSSWorms
+
+![image](https://user-images.githubusercontent.com/63554864/188439720-ba9ea0d7-f528-471f-a1f9-717e5409e391.png)
+
+PR with task description: https://github.com/Wsko-12/RSWorms/pull/60  
+Code: https://github.com/Wsko-12/RSWorms     
+Deploy: https://wsko-12.github.io/RSWorms/client/   
+
+<details>
+<summary>Comment:</summary>
+<br>
+Multiplayer not available because of Heroku block. In Readme file instruction how to check multiplayer on localhost.
+
+My presentation about how it works: https://youtu.be/zVUctmXDQNQ  
+
+</details>
