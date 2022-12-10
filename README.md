@@ -52,3 +52,14 @@ This is a digital version of a board game that I came up with when my friends an
 </details>
 
 **More about this projects on my Self introduction video**: https://youtu.be/gHhgImZYngY
+
+## RSShool JS/FE2022Q1
+Certificate: https://app.rs.school/certificate/wwwccw60  
+Tasks PR's: https://github.com/Wsko-12/wsko-12-JSFE2022Q1/pulls  
+
+### Virtual keyboard
+![image](https://user-images.githubusercontent.com/63554864/165915113-9dcc358c-470b-4f6f-befe-75523bd1043c.png)
+PR with task description: https://github.com/Wsko-12/rss-virtual-keyboard/pull/1  
+Code: https://github.com/Wsko-12/rss-virtual-keyboard/tree/development  
+Deploy: https://wsko-12.github.io/rss-virtual-keyboard/  
+
