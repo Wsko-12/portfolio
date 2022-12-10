@@ -34,3 +34,21 @@ And also this Minecraft "physics" of water
 
 
 </details>
+
+<hr />
+
+### Hexallion
+![image](https://user-images.githubusercontent.com/63554864/206843931-bb3fe522-5981-470b-b2c6-c9ca3aee6532.png)
+
+Repo: https://github.com/Wsko-12/hexallion  
+Deploy: https://wsko-12.github.io/hexallion/
+
+<details>
+<summary>Comment:</summary>
+<br>
+This is a digital version of a board game that I came up with when my friends and I got tired of playing Monopoly. Unfortunately multiplayer is not available yet as Heroku has blocked free plans. Here is a link for tutorial how to play.
+
+![image](https://user-images.githubusercontent.com/63554864/206844871-fe3819c8-e76b-423d-bf06-d28ba5a70c4d.png)
+</details>
+
+**More about this projects on my Self introduction video**: https://youtu.be/gHhgImZYngY
