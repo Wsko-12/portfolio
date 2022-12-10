@@ -63,3 +63,18 @@ PR with task description: https://github.com/Wsko-12/rss-virtual-keyboard/pull/1
 Code: https://github.com/Wsko-12/rss-virtual-keyboard/tree/development  
 Deploy: https://wsko-12.github.io/rss-virtual-keyboard/  
 
+<hr />
+
+### Online store
+![image](https://user-images.githubusercontent.com/63554864/179398594-435f7f15-2031-43fd-a893-c6ed2f752f1b.png)
+
+PR with task description: https://github.com/Wsko-12/wsko-12-JSFE2022Q1/pull/4  
+Code: https://github.com/Wsko-12/wsko-12-JSFE2022Q1/tree/online-store    
+Deploy: https://rolling-scopes-school.github.io/wsko-12-JSFE2022Q1/online-store/   
+
+<details>
+<summary>Comment:</summary>
+<br>
+No libraries are used. Especially for sliders and sorting animation 
+</details>
+
