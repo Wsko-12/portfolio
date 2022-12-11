@@ -96,3 +96,17 @@ Multiplayer not available because of Heroku block. In Readme file instruction ho
 My presentation about how it works: https://youtu.be/zVUctmXDQNQ  
 
 </details>
+
+<hr />
+
+## RSShool React2022Q3
+
+Tasks PR's: https://github.com/Wsko-12/wsko-12-REACT2022Q3/pulls 
+
+### React course Project Managment App final task
+![image](https://user-images.githubusercontent.com/63554864/206896542-2f478b35-f7ac-40ca-b720-10c9c168186e.png)
+
+
+PR with task description: https://github.com/marat1000/project-management-app/pull/28   
+Code: https://github.com/marat1000/project-management-app/tree/develop  
+Deploy: https://marat1000.github.io/project-management-app/  
