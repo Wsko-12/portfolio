@@ -110,3 +110,9 @@ Tasks PR's: https://github.com/Wsko-12/wsko-12-REACT2022Q3/pulls
 PR with task description: https://github.com/marat1000/project-management-app/pull/28   
 Code: https://github.com/marat1000/project-management-app/tree/develop  
 Deploy: https://marat1000.github.io/project-management-app/  
+
+<details>
+<summary>Comment:</summary>
+<br>
+drag and drop was made without libraries
+</details>
