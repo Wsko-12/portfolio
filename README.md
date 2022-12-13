@@ -101,6 +101,7 @@ My presentation about how it works: https://youtu.be/zVUctmXDQNQ
 
 ## RSShool React2022Q3
 
+Certificate: https://app.rs.school/certificate/sfppy5rk    
 Tasks PR's: https://github.com/Wsko-12/wsko-12-REACT2022Q3/pulls 
 
 ### React course Project Managment App final task
