@@ -87,6 +87,7 @@ No libraries are used. Especially for sliders and sorting animation
 PR with task description: https://github.com/Wsko-12/RSWorms/pull/60  
 Code: https://github.com/Wsko-12/RSWorms     
 Deploy: https://wsko-12.github.io/RSWorms/client/   
+MIRO: https://miro.com/app/board/uXjVOhChhKE=/
 
 <details>
 <summary>Comment:</summary>
