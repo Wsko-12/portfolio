@@ -120,15 +120,3 @@ drag and drop was made without libraries
 </details>
 
 <hr />
-
-### Garden (in progress)
-![image](https://user-images.githubusercontent.com/63554864/214608645-90c487df-dc50-400e-8fe1-69e8169eb2f1.png)
-
-Code: https://github.com/Wsko-12/flo-gard-react  
-Deploy: https://wsko-12.github.io/flo-gard-react/
-
-<details>
-<summary>Comment:</summary>
-<br>
-Project created with Three.js (NOT React Three Fiber) and React. "Game world" connected with UI using Redux Toolkit.
-</details>
